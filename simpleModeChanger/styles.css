@@ -1,0 +1,27 @@
+body {
+    transition: background-color 0.4s, color 0.4s;
+}
+
+.rectangle {
+    height: 50px;
+    width: 100px;
+    border-radius: 20px;
+    border: 2px solid black;
+    position: relative;
+    overflow: hidden;
+}
+
+.circle {
+    padding-top: 2px;
+    height: 90%;
+    width: 45%;
+    border-radius: 20px;
+    border: 2px solid black;
+    position: absolute;
+    left: 0;
+    transition: transform 0.4s, border 0.4s;
+}
+
+.circle.move-right {
+    transform: translateX(55px);
+}
