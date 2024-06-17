@@ -1,32 +1,29 @@
-Sure! Below is a sample README content for your Rock-Paper-Scissor game project. You can customize it further based on your specific needs and preferences.
-
----
-
 # Rock-Paper-Scissor Game
 
-A simple Rock-Paper-Scissor game implemented using HTML, CSS, and JavaScript.
+![rps](https://github.com/Binduvarsha23/simpleFrontend/assets/123391226/80629473-4e5b-4a15-9787-3e3c7a61f383)
+
+
+This project is a part of the [simpleFrontend](https://github.com/Binduvarsha23/simpleFrontend) repository. It features a classic Rock-Paper-Scissor game implemented with HTML, CSS, and JavaScript.
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
+## Description
 
-![Rock-Paper-Scissor Demo](demo.gif)
-
-Check out the live version [here](https://your-live-demo-link.com).
+The Rock-Paper-Scissor game is a simple, interactive application where users can play the popular hand game against a computer opponent. The game randomly generates the computer's choice and compares it with the user's choice to determine the winner. The score is updated in real-time, and feedback messages inform the user of the outcome of each round.
 
 ## Features
 
-- Play Rock-Paper-Scissor against the computer.
-- Responsive and intuitive user interface.
-- Real-time score tracking.
-- Dynamic game messages indicating the result of each round.
+- Interactive gameplay with three choices: Rock, Paper, Scissors.
+- Real-time score updates for both the user and the computer.
+- Dynamic feedback messages to indicate the result of each round.
+- Simple and responsive user interface.
 
 ## Installation
 
@@ -41,7 +38,7 @@ git clone https://github.com/Binduvarsha23/simpleFrontend.git
 2. Navigate to the project directory:
 
 ```bash
-cd rockPaperScissor
+cd simpleFrontend/rockPaperScissor
 ```
 
 3. Open `index.html` in your preferred web browser.
@@ -66,4 +63,4 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, f
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
