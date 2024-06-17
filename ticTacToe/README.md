@@ -1,5 +1,6 @@
-![ticTacToe](https://github.com/Binduvarsha23/ticTacToe/assets/123391226/103f8b0e-d39f-4bcc-b543-3e04d5b676f7)
-# Tic-Tac-Toe Game
+
+# Tic-Tac-Toe G![ticTacToe](https://github.com/Binduvarsha23/simpleFrontend/assets/123391226/f909cbac-0a87-461c-ab16-fe06ce69a95a)
+ame
 
 This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game allows two players to play in turns and announces the winner when one player gets three marks in a row.
 
