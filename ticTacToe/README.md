@@ -26,11 +26,11 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Binduvarsha23/ticTacToe.git
+    git clone https://github.com/Binduvarsha23/simpleFrontend.git
     ```
 2. Open the project folder:
     ```bash
-    cd tic-tac-toe
+    cd ticTacToe
     ```
 3. Open the `index.html` file in a web browser.
 
